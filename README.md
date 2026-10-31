@@ -1,17 +1,38 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:151515,100:350909&text=YASHWARDHAN&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=THE%20ONE%20WHO%20BUILDS%20IN%20THE%20DARK&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- GOTHAM: THE OPENING SCENE -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=I+am+the+storm+behind+the+screen.;Every+legend+has+a+beginning.;Code+is+my+weapon.+Logic+is+my+power.;Still+evolving.+Never+finished." />
+<img src="https://static.dc.com/dc/files/default_images/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg" width="280" alt="Batman - The Dark Knight"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3" width="85%"/>
+
+# YASHWARDHAN SINGH
+
+### THE DARK KNIGHT × THE SHADOW UCHIHA
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Behind+every+mask+lies+a+story.;In+the+shadows%2C+I+find+my+purpose.;Logic+is+my+weapon.+Code+is+my+power.;A+mind+that+never+stops+evolving."/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yashwardhan61&style=for-the-badge&color=8B0000)
-![Followers](https://img.shields.io/github/followers/Yashwardhan61?style=for-the-badge&logo=github&color=292929)
+<img src="https://komarev.com/ghpvc/?username=Yashwardhan61&style=for-the-badge&color=8B0000&label=GOTHAM+VISITORS"/>
+
+[![GitHub Followers](https://img.shields.io/github/followers/Yashwardhan61?style=for-the-badge&logo=github&color=8B0000&label=ALLIES)](https://github.com/Yashwardhan61?tab=followers)
 
 <br/>
 
-### "You either die a hero, or you live long enough to see yourself become the villain."
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65%"/>
+
+**THE DARK KNIGHT**
+
+*Discipline. Intelligence. Strategy.*
+
+**THE SHARINGAN**
+
+*Perception. Patience. Evolution.*
+
+<br/>
+
+> "You either die a hero, or you live long enough to see yourself become the villain."
 
 **— Harvey Dent | The Dark Knight**
 
@@ -19,48 +40,61 @@
 
 ---
 
-## 01 // THE CHARACTER
+<div align="center">
+
+## 01 // THE MAN BEHIND THE MASK
+
+*Not every story needs a hero. Some need a builder.*
+
+</div>
 
 ```yaml
 identity:
   name: Yashwardhan Singh
-  alias: The Fallen Hero
-  origin: Prayagraj, India
+  codename: The Shadow Developer
+  location: Prayagraj, India
   affiliation: MNNIT Allahabad
-  current_arc: MCA (2025-2028)
+  education: MCA (2025-2028)
+
+  roles:
+    - Full Stack Developer
+    - Open Source Contributor
+    - Competitive Programmer
+
+  current_arc:
+    project: Code Frolics
+    mission: Preserve magical moments
 
   abilities:
-    - Full Stack Development
     - Backend Engineering
-    - Competitive Programming
+    - System Architecture
     - AI Integration
+    - Data Structures & Algorithms
 
-  current_mission:
-    name: Code Frolics
-    objective: Preserve magical moments
-
-  mindset: >
-    No shortcuts. No excuses.
-    Just evolution.
+  philosophy: "The world isn't perfect. Build something better."
 ```
 
-## 02 // THE WEAPONS
+---
 
 <div align="center">
 
-**LANGUAGES**
+## 02 // THE ARSENAL
+
+*Every warrior has weapons. These are mine.*
+
+### PRIMARY WEAPONS
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
 
-**FRAMEWORKS**
+### ENGINEERING TECHNIQUES
 
 <img src="https://skillicons.dev/icons?i=react,spring,nodejs,express,vite&theme=dark"/>
 
-**DATABASE & CLOUD**
+### MEMORY & STORAGE SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
 
-**TOOLS**
+### THE BATCAVE
 
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,idea,postman,linux&theme=dark"/>
 
@@ -68,102 +102,151 @@ identity:
 
 ---
 
-## 03 // THE LEGENDS I AM BUILDING
+<div align="center">
 
-<details>
-<summary><b>01. CODE FROLICS // THE MEMORY ARCHIVE</b></summary>
+## 03 // CLASSIFIED MISSIONS
 
-A full-stack platform to preserve magical moments through authentication, media management and cloud deployment.
+*Projects are not just repositories. They are worlds waiting to be built.*
 
-Tech: React | Spring Boot | Firebase
+</div>
 
-[ENTER THE PROJECT](https://github.com/Yashwardhan61/Code_Frolics)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 01 // CODE FROLICS
 
-<details>
-<summary><b>02. MAGICSHELL // THE COMMANDER</b></summary>
+**THE MEMORY ARCHIVE**
 
-An AI-powered terminal that transforms natural language into command-line interactions.
+A platform to preserve magical moments through authentication, media handling and cloud deployment.
 
-Tech: Python | NLP | CLI
+`React` `Spring Boot` `Firebase`
 
-[ENTER THE PROJECT](https://github.com/Champhimu/MagicShell)
+[ACCESS MISSION →](https://github.com/Yashwardhan61/Code_Frolics)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>03. RANGER MED-CORE // THE GUARDIAN</b></summary>
+### 02 // MAGICSHELL
 
-An AI-powered healthcare platform with capsule management, health assistance, dose prediction and wellness tracking.
+**THE COMMAND CENTER**
 
-Tech: JavaScript | AI/ML | Full Stack
+An AI-powered terminal transforming natural language into command-line interactions.
 
-[ENTER THE PROJECT](https://github.com/Champhimu/ranger-med-core)
+`Python` `NLP` `CLI`
 
-</details>
+[ACCESS MISSION →](https://github.com/Champhimu/MagicShell)
 
-<details>
-<summary><b>04. TEAMUPX // THE ALLIANCE</b></summary>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent collaboration platform matching teammates through skills, availability and compatibility.
+### 03 // RANGER MED-CORE
 
-Tech: Spring Boot | React | React Native
+**THE GUARDIAN PROJECT**
 
-[ENTER THE PROJECT](https://github.com/Yashwardhan61/TeamUpX)
+Healthcare and AI application featuring capsule management, AI health assistant, dose prediction and wellness dashboard.
 
-</details>
+`JavaScript` `AI/ML` `Full Stack`
+
+[ACCESS MISSION →](https://github.com/Champhimu/ranger-med-core)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 // TEAMUPX
+
+**THE ALLIANCE PROTOCOL**
+
+An intelligent collaboration platform matching teammates using skills, availability and compatibility.
+
+`Spring Boot` `React` `React Native`
+
+[ACCESS MISSION →](https://github.com/Yashwardhan61/TeamUpX)
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## 04 // POWER LEVEL
 
-<div align="center">
+*The numbers tell a story. The commits tell the journey.*
 
-<img width="49%" src="https://github-readme-stats-ten-wine.vercel.app/api?username=Yashwardhan61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-ten-wine.vercel.app/api?username=Yashwardhan61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=DC143C&icon_color=DC143C&text_color=E6E6E6&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwardhan61&theme=tokyonight&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwardhan61&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=E6E6E6&dates=888888"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&theme=high-contrast&hide_border=true&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true"/>
+### THE CHRONICLES OF CONTRIBUTION
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&bg_color=0D0D0D&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=GOTHAM%20ACTIVITY%20LOG"/>
 
 </div>
 
 ---
 
-## 05 // THE NEVER-ENDING TRAINING ARC
-
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Yashwardhan61?theme=dark&font=Fira%20Code&ext=heatmap)
+## 05 // THE TRAINING ARC
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yashwardhan61/)
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yashwardhan61)
-[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yashwardhan61/)
+*Even the strongest characters have to train.*
+
+### LEETCODE // THE MIND'S BATTLEFIELD
+
+<img src="https://leetcard.jacoblin.cool/Yashwardhan61?theme=dark&font=Fira%20Code&ext=heatmap" width="95%"/>
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=DC143C)](https://leetcode.com/u/Yashwardhan61/)
+
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-111111?style=for-the-badge&logo=codeforces&logoColor=DC143C)](https://codeforces.com/profile/yashwardhan61)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=DC143C)](https://www.geeksforgeeks.org/user/yashwardhan61/)
 
 </div>
 
 ---
 
-## 06 // BEHIND THE MASK
+<div align="center">
+
+## 06 // THE ALLIANCE
+
+*Every legend has allies. Every journey has connections.*
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=DC143C)](https://www.linkedin.com/in/yashwardhan-singh/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/Yashwardhan61)
+
+[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=DC143C)](mailto:yashwardhan61@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwardhan-singh/)
-[![GitHub](https://img.shields.io/badge-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashwardhan61)
-[![Gmail](https://img.shields.io/badge-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwardhan61@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="80%"/>
+
+## 07 // THE FINAL TRUTH
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=700&lines=Even+the+darkest+night+has+a+story+to+tell."/>
 
 <br/>
 
-### "The night is darkest just before the dawn."
+### "People live their lives bound by what they accept as correct and true. That's how they define reality."
 
-**— Harvey Dent | The Dark Knight**
+**— Itachi Uchiha | Naruto Shippuden**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,50:151515,100:350909&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:250000,100:8B0000&height=140&section=footer&text=END%20OF%20TRANSMISSION&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
-**END OF TRANSMISSION.**
+**THE SHADOWS NEVER FORGET.**
 
 </div>
