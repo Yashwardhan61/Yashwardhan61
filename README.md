@@ -1,11 +1,6 @@
  <div align="center">
 
 <!-- GOTHAM: THE OPENING SCENE -->
-
-<img src="https://static.dc.com/dc/files/default_images/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg" width="280" alt="Batman - The Dark Knight"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3" width="85%"/>
-
 # YASHWARDHAN SINGH
 
 ### THE DARK KNIGHT × THE SHADOW UCHIHA
