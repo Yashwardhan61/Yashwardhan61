@@ -1,27 +1,34 @@
 <div align="center">
 
 <!-- HERO BANNER: GOTHAM CITY AT NIGHT & THE BAT-SIGNAL -->
-<img src="assets/batman_hero_banner.svg" alt="Gotham City - Yashwardhan Singh - The Dark Knight" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yashwardhan61/Yashwardhan61/main/assets/batman_hero_banner.png" alt="Gotham City - Yashwardhan Singh - The Dark Knight" width="100%"/>
 
 <br/>
 
 <!-- BATCOMPUTER DYNAMIC TERMINAL PROMPT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&width=800&lines=Wayne+Enterprises+Applied+Sciences+Protocol+Active.;Target%3A+Autonomous+AI+Agents+%26+Next-Gen+Systems.;They+think+I+am+hiding+in+the+shadows.+I+am+the+shadows.;It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;Logic+is+my+weapon.+Code+is+my+power." alt="Batcomputer Terminal Output"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&width=800&lines=Wayne+Enterprises+Applied+Sciences+Protocol+Active.;Target%3A+Autonomous+AI+Agents+%26+Next-Gen+Systems.;They+think+I+am+hiding+in+the+shadows.+I+am+the+shadows.;It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;Logic+is+my+weapon.+Code+is+my+power." alt="Batcomputer Terminal Output"/>
 
 <br/>
 
 <!-- SURVEILLANCE & ALLIANCE HUD -->
-<img src="https://komarev.com/ghpvc/?username=Yashwardhan61&style=for-the-badge&color=8B0000&label=GOTHAM+MONITOR+LOG"/>
-[![GitHub Allies](https://img.shields.io/github/followers/Yashwardhan61?style=for-the-badge&logo=github&color=8B0000&label=WAYNE+ALLIES)](https://github.com/Yashwardhan61?tab=followers)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashwardhan61&style=for-the-badge&color=8B0000&label=GOTHAM+MONITOR+LOG" alt="Visitors"/>
+  &nbsp;
+  <a href="https://github.com/Yashwardhan61?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Yashwardhan61?style=for-the-badge&logo=github&color=8B0000&label=WAYNE+ALLIES" alt="Allies"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 
 <br/>
-
-<img src="assets/bat_divider.svg" width="100%"/>
 
 > *"A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended."*  
 > **— Bruce Wayne | The Dark Knight Rises**
 
-<img src="assets/bat_divider.svg" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 
 </div>
 
@@ -58,7 +65,7 @@ creed: "They think I'm hiding in the shadows, but I am the shadows."
 ```
 
 <div align="center">
-<img src="assets/bat_divider.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 </div>
 
 <br/>
@@ -89,7 +96,8 @@ creed: "They think I'm hiding in the shadows, but I am the shadows."
 ### BATCAVE OPERATIONS & WORKSPACE (DEVOPS & UTILITIES)
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,idea&theme=dark" alt="DevOps and Tools"/>
 
-<img src="assets/bat_divider.svg" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 
 </div>
 
@@ -122,10 +130,11 @@ An intelligent multimodal circular ingestion and execution agent for MNNIT Allah
 `FastAPI` `Google Gemini REST API` `React 18` `Tailwind CSS` `Firebase Auth` `RFC 5545` `pypdf`
 
 <p align="center">
-  <a href="https://github.com/Yashwardhan61/DocuPilot">
+  <a href="https://github.com/Yashwardhan61/DocuPilot" target="_blank">
     <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="DocuPilot Repo"/>
   </a>
-  <a href="https://drive.google.com/file/d/1_SDS5hW5lJMOVNS8O5hRELwfgoPM5DOa/view?usp=drivesdk">
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1_SDS5hW5lJMOVNS8O5hRELwfgoPM5DOa/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/WATCH_DEMONSTRATION-DC143C?style=for-the-badge&logo=googledrive&logoColor=white" alt="DocuPilot Demo"/>
   </a>
 </p>
@@ -194,7 +203,8 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 </table>
 
 <div align="center">
-<img src="assets/bat_divider.svg" width="100%"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 </div>
 
 <br/>
@@ -213,7 +223,8 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 ### CHRONICLES OF NIGHT PATROL
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&bg_color=040711&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=BATCAVE%20SURVEILLANCE%20LOG" alt="Activity Graph"/>
 
-<img src="assets/bat_divider.svg" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 
 </div>
 
@@ -229,11 +240,21 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0D14?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=040711)](https://leetcode.com/u/Yashwardhan61/)
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-0A0D14?style=for-the-badge&logo=codeforces&logoColor=DC143C&labelColor=040711)](https://codeforces.com/profile/yashwardhan61)
-[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-0A0D14?style=for-the-badge&logo=geeksforgeeks&logoColor=DC143C&labelColor=040711)](https://www.geeksforgeeks.org/user/yashwardhan61/)
+<p align="center">
+  <a href="https://leetcode.com/u/Yashwardhan61/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-0A0D14?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=040711" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/yashwardhan61" target="_blank">
+    <img src="https://img.shields.io/badge/CODEFORCES-0A0D14?style=for-the-badge&logo=codeforces&logoColor=DC143C&labelColor=040711" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/yashwardhan61/" target="_blank">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-0A0D14?style=for-the-badge&logo=geeksforgeeks&logoColor=DC143C&labelColor=040711" alt="GeeksforGeeks"/>
+  </a>
+</p>
 
-<img src="assets/bat_divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 
 </div>
 
@@ -245,11 +266,21 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 
 *Encrypted frequencies. Reach out through secure channels.*
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0D14?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=040711)](https://www.linkedin.com/in/yashwardhan-singh/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0A0D14?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=040711)](https://github.com/Yashwardhan61)
-[![Gmail](https://img.shields.io/badge/GMAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=040711)](mailto:yashwardhan61@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashwardhan-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A0D14?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=040711" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yashwardhan61" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-0A0D14?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=040711" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yashwardhan61@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=040711" alt="Gmail"/>
+  </a>
+</p>
 
-<img src="assets/bat_divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
 
 <br/>
 
