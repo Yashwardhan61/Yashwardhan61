@@ -6,7 +6,7 @@
 <br/>
 
 <!-- BATCOMPUTER DYNAMIC TERMINAL PROMPT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&width=800&lines=Wayne+Enterprises+Applied+Sciences+Protocol+Active.;Target%3A+Autonomous+AI+Agents+%26+Next-Gen+Systems.;They+think+I+am+hiding+in+the+shadows.+I+am+the+shadows.;It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;Logic+is+my+weapon.+Code+is+my+power." alt="Batcomputer Terminal Output"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&width=800&lines=ToXiN+Enterprises+Applied+Advanced+Protocol+Active.;Target%3A+Autonomous+AI+Agents+%26+Next-Gen+Systems.;They+think+I+am+hiding+in+the+shadows.+I+am+the+shadows.;It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;Logic+is+my+weapon.+Code+is+my+power." alt="Batcomputer Terminal Output"/>
 
 <br/>
 
@@ -45,7 +45,7 @@
 ```yaml
 identity:
   name: Yashwardhan Singh
-  alias: The Dark Knight // The Shadow Shinobi
+  alias: The Dark Knight // The Shadow Shinobi // ToXiN
   operational_base: Prayagraj, India
   institute: MNNIT Allahabad
   degree: Master of Computer Applications (MCA 2025–2028)
