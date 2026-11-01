@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="100%">
+  <defs>
+    <!-- Background Night Gradient -->
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#020408"/>
+      <stop offset="45%" stop-color="#070c18"/>
+      <stop offset="75%" stop-color="#0d1527"/>
+      <stop offset="100%" stop-color="#04060a"/>
+    </linearGradient>
+
+    <!-- Bat-Signal Glow Gradients -->
+    <radialGradient id="batGlow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.85"/>
+      <stop offset="35%" stop-color="#f59e0b" stop-opacity="0.45"/>
+      <stop offset="70%" stop-color="#d97706" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="searchBeam1" x1="10%" y1="100%" x2="50%" y2="40%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#fbbf24" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#fef3c7" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="searchBeam2" x1="90%" y1="100%" x2="50%" y2="40%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#fbbf24" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#fef3c7" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="crimsonAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b0000"/>
+      <stop offset="50%" stop-color="#dc143c"/>
+      <stop offset="100%" stop-color="#8b0000"/>
+    </linearGradient>
+
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="50%" stop-color="#fef08a"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+
+    <!-- Rain Filter / Pattern -->
+    <pattern id="rain" width="100" height="100" patternUnits="userSpaceOnUse" patternTransform="rotate(22)">
+      <line x1="10" y1="0" x2="10" y2="40" stroke="#38bdf8" stroke-width="0.75" stroke-opacity="0.15"/>
+      <line x1="50" y1="20" x2="50" y2="70" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.12"/>
+      <line x1="85" y1="10" x2="85" y2="60" stroke="#38bdf8" stroke-width="0.75" stroke-opacity="0.18"/>
+      <line x1="30" y1="50" x2="30" y2="95" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.14"/>
+    </pattern>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Sky & Atmospheric Background -->
+  <rect width="1200" height="380" fill="url(#skyGrad)"/>
+
+  <!-- Searchlight Beams pointing to Bat-Signal -->
+  <polygon points="120,380 440,130 520,130 200,380" fill="url(#searchBeam1)"/>
+  <polygon points="1080,380 760,130 680,130 1000,380" fill="url(#searchBeam2)"/>
+
+  <!-- Bat-Signal Sky Aura -->
+  <circle cx="600" cy="125" r="140" fill="url(#batGlow)"/>
+
+  <!-- Bat-Signal Ellipse Projection -->
+  <ellipse cx="600" cy="125" rx="88" ry="54" fill="#fef08a" opacity="0.92" filter="url(#glow)"/>
+
+  <!-- Bat Symbol Inside Projection -->
+  <path d="M 600,105 
+           C 608,98 625,98 638,108 
+           C 645,99 658,98 672,106 
+           C 670,118 662,126 652,130 
+           C 666,134 676,145 674,152 
+           C 660,147 645,142 635,146 
+           C 625,150 618,157 600,165 
+           C 582,157 575,150 565,146 
+           C 555,142 540,147 526,152 
+           C 524,145 534,134 548,130 
+           C 538,126 530,118 528,106 
+           C 542,98 555,99 562,108 
+           C 575,98 592,98 600,105 Z" 
+        fill="#070a12"/>
+
+  <!-- Distant Gotham City Skyline -->
+  <path d="M 0,380 L 0,260 L 35,260 L 35,230 L 60,230 L 60,270 L 95,270 L 95,210 L 110,195 L 125,210 L 125,275 L 170,275 L 170,240 L 210,240 L 210,285 L 250,285 L 250,220 L 285,220 L 285,280 L 330,280 L 330,185 L 345,170 L 360,185 L 360,290 L 410,290 L 410,250 L 450,250 L 450,295 L 500,295 L 500,270 L 530,270 L 530,300 L 670,300 L 670,265 L 705,265 L 705,295 L 760,295 L 760,235 L 775,220 L 790,235 L 790,280 L 835,280 L 835,245 L 870,245 L 870,290 L 920,290 L 920,215 L 945,215 L 945,275 L 980,275 L 980,250 L 1020,250 L 1020,285 L 1070,285 L 1070,190 L 1085,175 L 1100,190 L 1100,270 L 1140,270 L 1140,235 L 1175,235 L 1175,280 L 1200,280 L 1200,380 Z" 
+        fill="#060a14" opacity="0.9"/>
+
+  <!-- Foreground Skyscrapers with Windows -->
+  <path d="M 0,380 L 0,290 L 45,290 L 45,310 L 80,310 L 80,270 L 140,270 L 140,330 L 190,330 L 190,280 L 240,280 L 240,325 L 300,325 L 300,295 L 350,295 L 350,340 L 420,340 L 420,305 L 480,305 L 480,345 L 720,345 L 720,310 L 780,310 L 780,340 L 850,340 L 850,290 L 900,290 L 900,330 L 960,330 L 960,275 L 1030,275 L 1030,320 L 1090,320 L 1090,290 L 1150,290 L 1150,335 L 1200,335 L 1200,380 Z" 
+        fill="#020307"/>
+
+  <!-- Lit City Windows -->
+  <g fill="#fef08a" opacity="0.35">
+    <rect x="18" y="275" width="3" height="4"/>
+    <rect x="25" y="275" width="3" height="4"/>
+    <rect x="100" y="225" width="3" height="5"/>
+    <rect x="108" y="225" width="3" height="5"/>
+    <rect x="100" y="240" width="3" height="5"/>
+    <rect x="338" y="200" width="4" height="6"/>
+    <rect x="348" y="200" width="4" height="6"/>
+    <rect x="338" y="215" width="4" height="6"/>
+    <rect x="348" y="215" width="4" height="6"/>
+    <rect x="770" y="245" width="4" height="6"/>
+    <rect x="780" y="245" width="4" height="6"/>
+    <rect x="930" y="230" width="3" height="5"/>
+    <rect x="938" y="230" width="3" height="5"/>
+    <rect x="1080" y="205" width="4" height="6"/>
+    <rect x="1090" y="205" width="4" height="6"/>
+  </g>
+
+  <!-- Rain Layer -->
+  <rect width="1200" height="380" fill="url(#rain)" pointer-events="none"/>
+
+  <!-- Dark Vignette Border -->
+  <rect x="0" y="0" width="1200" height="380" fill="none" stroke="#1e293b" stroke-width="2" opacity="0.6"/>
+
+  <!-- Header Text: Wayne Enterprises & Dark Knight Identity -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace" text-anchor="middle">
+    <text x="600" y="235" font-size="11" font-weight="800" fill="#f59e0b" letter-spacing="4" text-transform="uppercase">
+      WAYNE ENTERPRISES // APPLIED SCIENCES DIVISION
+    </text>
+    <text x="600" y="275" font-size="32" font-weight="900" fill="#f8fafc" letter-spacing="3" text-transform="uppercase">
+      YASHWARDHAN SINGH
+    </text>
+    <text x="600" y="302" font-size="13" font-weight="700" fill="#dc143c" letter-spacing="2" text-transform="uppercase">
+      THE DARK KNIGHT × THE SHADOW UCHIHA
+    </text>
+    <text x="600" y="325" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="1">
+      MNNIT ALLAHABAD &bull; AUTONOMOUS AI AGENTS &bull; FULL STACK SYSTEMS
+    </text>
+  </g>
+
+  <!-- Tech Accent Border -->
+  <rect x="350" y="345" width="500" height="2" fill="url(#crimsonAccent)"/>
+</svg>

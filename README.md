@@ -1,121 +1,153 @@
- <div align="center">
+<div align="center">
 
-<!-- GOTHAM: THE OPENING SCENE -->
-# YASHWARDHAN SINGH
-
-### THE DARK KNIGHT × THE SHADOW UCHIHA
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Behind+every+mask+lies+a+story.;In+the+shadows%2C+I+find+my+purpose.;Logic+is+my+weapon.+Code+is+my+power.;A+mind+that+never+stops+evolving."/>
+<!-- HERO BANNER: GOTHAM CITY AT NIGHT & THE BAT-SIGNAL -->
+<img src="assets/batman_hero_banner.svg" alt="Gotham City - Yashwardhan Singh - The Dark Knight" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Yashwardhan61&style=for-the-badge&color=8B0000&label=GOTHAM+VISITORS"/>
-
-[![GitHub Followers](https://img.shields.io/github/followers/Yashwardhan61?style=for-the-badge&logo=github&color=8B0000&label=ALLIES)](https://github.com/Yashwardhan61?tab=followers)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65%"/>
-
-**THE DARK KNIGHT**
-
-*Discipline. Intelligence. Strategy.*
-
-**THE SHARINGAN**
-
-*Perception. Patience. Evolution.*
+<!-- BATCOMPUTER DYNAMIC TERMINAL PROMPT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&width=800&lines=Wayne+Enterprises+Applied+Sciences+Protocol+Active.;Target%3A+Autonomous+AI+Agents+%26+Next-Gen+Systems.;They+think+I+am+hiding+in+the+shadows.+I+am+the+shadows.;It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;Logic+is+my+weapon.+Code+is+my+power." alt="Batcomputer Terminal Output"/>
 
 <br/>
 
-> "You either die a hero, or you live long enough to see yourself become the villain."
+<!-- SURVEILLANCE & ALLIANCE HUD -->
+<img src="https://komarev.com/ghpvc/?username=Yashwardhan61&style=for-the-badge&color=8B0000&label=GOTHAM+MONITOR+LOG"/>
+[![GitHub Allies](https://img.shields.io/github/followers/Yashwardhan61?style=for-the-badge&logo=github&color=8B0000&label=WAYNE+ALLIES)](https://github.com/Yashwardhan61?tab=followers)
 
-**— Harvey Dent | The Dark Knight**
+<br/>
+
+<img src="assets/bat_divider.svg" width="100%"/>
+
+> *"A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended."*  
+> **— Bruce Wayne | The Dark Knight Rises**
+
+<img src="assets/bat_divider.svg" width="100%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## 01 // THE MAN BEHIND THE MASK
+## 01 // CLASSIFIED DOSSIER [BATCOMPUTER ARCHIVE]
 
-*Not every story needs a hero. Some need a builder.*
+*Not every story needs a hero. Some need an architect in the shadows.*
 
 </div>
 
 ```yaml
 identity:
   name: Yashwardhan Singh
-  codename: The Shadow Developer
-  location: Prayagraj, India
-  affiliation: MNNIT Allahabad
-  education: MCA (2025-2028)
+  alias: The Dark Knight // The Shadow Shinobi
+  operational_base: Prayagraj, India
+  institute: MNNIT Allahabad
+  degree: Master of Computer Applications (MCA 2025–2028)
 
-  roles:
-    - Full Stack Developer
-    - Open Source Contributor
-    - Competitive Programmer
+clearance_level: Wayne Enterprises Level 5 (Applied Sciences)
+active_directives:
+  - Autonomous AI Agents & Multimodal Orchestration
+  - Resilient Backend Infrastructure & Microservices
+  - Algorithmic Optimization & Competitive Problem Solving
 
-  current_arc:
-    project: Code Frolics
-    mission: Preserve magical moments
+primary_patrols:
+  flagship: DocuPilot (Autonomous University Circular Ingestion & Calendar Dispatcher)
+  archive: Code Frolics (Cloud Memory & Media Infrastructure)
+  terminal: MagicShell (NLP-to-Shell Conversational Execution Core)
 
-  abilities:
-    - Backend Engineering
-    - System Architecture
-    - AI Integration
-    - Data Structures & Algorithms
-
-  philosophy: "The world isn't perfect. Build something better."
+creed: "They think I'm hiding in the shadows, but I am the shadows."
 ```
 
----
+<div align="center">
+<img src="assets/bat_divider.svg" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-## 02 // THE ARSENAL
+## 02 // THE TACTICAL ARSENAL [THE BATCAVE]
 
-*Every warrior has weapons. These are mine.*
+*Every warrior needs equipment. Built for speed, precision, and endurance.*
 
-### PRIMARY WEAPONS
+### PRIMARY OFFENSIVE WEAPONS (LANGUAGES)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" alt="Core Languages"/>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
+### HEAVY TACTICAL ENGINES (FRAMEWORKS & RUNTIMES)
+<img src="https://skillicons.dev/icons?i=fastapi,spring,react,nodejs,express,vite,tailwind&theme=dark" alt="Frameworks"/>
 
-### ENGINEERING TECHNIQUES
+### THE SHARINGAN EYE (AI, MULTIMODAL & AGENTS)
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini_REST_API-8B0000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Autonomous_AI_Agents-111111?style=for-the-badge&logo=openai&logoColor=DC143C" alt="Agents"/>
+  <img src="https://img.shields.io/badge/Multimodal_PDF_Extraction-8B0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Multimodal PDF"/>
+  <img src="https://img.shields.io/badge/RFC_5545_Calendar_Engine-111111?style=for-the-badge&logo=googlecalendar&logoColor=DC143C" alt="RFC 5545"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,spring,nodejs,express,vite&theme=dark"/>
+### SECURE CRYPT & STORAGE (DATABASES & CLOUD)
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,firebase&theme=dark" alt="Databases"/>
 
-### MEMORY & STORAGE SYSTEMS
+### BATCAVE OPERATIONS & WORKSPACE (DEVOPS & UTILITIES)
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,idea&theme=dark" alt="DevOps and Tools"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
-
-### THE BATCAVE
-
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,idea,postman,linux&theme=dark"/>
+<img src="assets/bat_divider.svg" width="100%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## 03 // CLASSIFIED MISSIONS
+## 03 // CLASSIFIED MISSIONS [TACTICAL DEPLOYMENTS]
 
-*Projects are not just repositories. They are worlds waiting to be built.*
+*Projects built to survive Gotham's harshest tests.*
 
 </div>
 
+<!-- FLAGSHIP HERO CARD: DOCUPILOT -->
+<div align="center">
+<table width="100%">
+<tr>
+<td style="background-color: #070c18; border: 2px solid #dc143c; border-radius: 12px; padding: 20px;">
+
+### FLAGSHIP OPERATION // DOCUPILOT
+**AUTONOMOUS UNIVERSITY NOTICE-TO-ACTION AGENT**
+
+An intelligent multimodal circular ingestion and execution agent for MNNIT Allahabad students. Converts dense administrative circulars and placement notifications into structured deadlines, course-aware student eligibility verdicts, and zero-click calendar reminders.
+
+- **Multimodal AI Extraction**: Direct Google Gemini REST API ingestion for multi-page PDFs, circular images, and plain text with verbatim source evidence.
+- **Academic Standing Engine**: Deterministic course duration engine distinguishing Degree Programs (MCA 3y, B.Tech 4y, M.Tech 2y) with dynamic year clamping.
+- **Zero-Click Calendar Sync**: Dual synchronization featuring 1-click Google Calendar Web Intent and RFC 5545 `.ics` email dispatch with 12-hour and 3-hour prior reminder alarms.
+- **Grounded Notice Q&A**: Contextual question answering backed by circular facts.
+
+`FastAPI` `Google Gemini REST API` `React 18` `Tailwind CSS` `Firebase Auth` `RFC 5545` `pypdf`
+
+<p align="center">
+  <a href="https://github.com/Yashwardhan61/DocuPilot">
+    <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="DocuPilot Repo"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1_SDS5hW5lJMOVNS8O5hRELwfgoPM5DOa/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/WATCH_DEMONSTRATION-DC143C?style=for-the-badge&logo=googledrive&logoColor=white" alt="DocuPilot Demo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- 2x2 TACTICAL MISSIONS MATRIX -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 01 // CODE FROLICS
-
 **THE MEMORY ARCHIVE**
 
-A platform to preserve magical moments through authentication, media handling and cloud deployment.
+Full-stack cloud archive engineered to store and preserve life moments through secure authentication, structured media handling, and optimized asset delivery.
 
-`React` `Spring Boot` `Firebase`
+`React` `Spring Boot` `Firebase` `Cloud Deployment`
 
 [ACCESS MISSION →](https://github.com/Yashwardhan61/Code_Frolics)
 
@@ -123,12 +155,11 @@ A platform to preserve magical moments through authentication, media handling an
 <td width="50%" valign="top">
 
 ### 02 // MAGICSHELL
-
 **THE COMMAND CENTER**
 
-An AI-powered terminal transforming natural language into command-line interactions.
+An AI-powered terminal orchestration interface translating natural language intent into verified command-line operations with safety boundaries.
 
-`Python` `NLP` `CLI`
+`Python` `Natural Language Processing` `CLI Engine`
 
 [ACCESS MISSION →](https://github.com/Champhimu/MagicShell)
 
@@ -137,111 +168,104 @@ An AI-powered terminal transforming natural language into command-line interacti
 <tr>
 <td width="50%" valign="top">
 
-### 03 // RANGER MED-CORE
+### 03 // TEAMUPX
+**THE ALLIANCE PROTOCOL**
 
-**THE GUARDIAN PROJECT**
+An intelligent team formation engine matching developers and students based on domain competencies, hackathon tracks, schedule availability, and role synergy.
 
-Healthcare and AI application featuring capsule management, AI health assistant, dose prediction and wellness dashboard.
+`Spring Boot` `React` `React Native` `Algorithms`
 
-`JavaScript` `AI/ML` `Full Stack`
-
-[ACCESS MISSION →](https://github.com/Champhimu/ranger-med-core)
+[ACCESS MISSION →](https://github.com/Yashwardhan61/TeamUpX)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 // TEAMUPX
+### 04 // RANGER MED-CORE
+**THE GUARDIAN PROJECT**
 
-**THE ALLIANCE PROTOCOL**
+Healthcare assistance and medication tracking platform featuring capsule regimen management, predictive scheduling, and real-time wellness metrics.
 
-An intelligent collaboration platform matching teammates using skills, availability and compatibility.
+`JavaScript` `AI/ML` `Full Stack Architecture`
 
-`Spring Boot` `React` `React Native`
-
-[ACCESS MISSION →](https://github.com/Yashwardhan61/TeamUpX)
+[ACCESS MISSION →](https://github.com/Champhimu/ranger-med-core)
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
-
-## 04 // POWER LEVEL
-
-*The numbers tell a story. The commits tell the journey.*
-
-<img width="49%" src="https://github-readme-stats-ten-wine.vercel.app/api?username=Yashwardhan61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=DC143C&icon_color=DC143C&text_color=E6E6E6&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwardhan61&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=E6E6E6&dates=888888"/>
+<img src="assets/bat_divider.svg" width="100%"/>
+</div>
 
 <br/>
 
-### THE CHRONICLES OF CONTRIBUTION
+<div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&bg_color=0D0D0D&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=GOTHAM%20ACTIVITY%20LOG"/>
+## 04 // BATCOMPUTER TELEMETRY [GOTHAM PATROL LOGS]
+
+*The signal never rests. Activity recorded in the shadows.*
+
+<img width="49%" src="https://github-readme-stats-ten-wine.vercel.app/api?username=Yashwardhan61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=DC143C&icon_color=DC143C&text_color=E6E6E6&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwardhan61&theme=dark&hide_border=true&background=040711&stroke=8B0000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=E6E6E6&dates=888888" alt="GitHub Streak"/>
+
+<br/>
+
+### CHRONICLES OF NIGHT PATROL
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&bg_color=040711&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=BATCAVE%20SURVEILLANCE%20LOG" alt="Activity Graph"/>
+
+<img src="assets/bat_divider.svg" width="100%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## 05 // THE TRAINING ARC
+## 05 // THE COMBAT SIMULATOR [PROBLEM SOLVING]
 
-*Even the strongest characters have to train.*
+*Sharp logic under pressure. Trained on algorithmic battlegrounds.*
 
-### LEETCODE // THE MIND'S BATTLEFIELD
+<img src="https://leetcard.jacoblin.cool/Yashwardhan61?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" alt="LeetCode Heatmap"/>
 
-<img src="https://leetcard.jacoblin.cool/Yashwardhan61?theme=dark&font=Fira%20Code&ext=heatmap" width="95%"/>
+<br/><br/>
 
-<br/>
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0D14?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=040711)](https://leetcode.com/u/Yashwardhan61/)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-0A0D14?style=for-the-badge&logo=codeforces&logoColor=DC143C&labelColor=040711)](https://codeforces.com/profile/yashwardhan61)
+[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-0A0D14?style=for-the-badge&logo=geeksforgeeks&logoColor=DC143C&labelColor=040711)](https://www.geeksforgeeks.org/user/yashwardhan61/)
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=DC143C)](https://leetcode.com/u/Yashwardhan61/)
-
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-111111?style=for-the-badge&logo=codeforces&logoColor=DC143C)](https://codeforces.com/profile/yashwardhan61)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=DC143C)](https://www.geeksforgeeks.org/user/yashwardhan61/)
+<img src="assets/bat_divider.svg" width="100%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## 06 // THE ALLIANCE
+## 06 // SECURE COMMS [THE ALLIANCE]
 
-*Every legend has allies. Every journey has connections.*
+*Encrypted frequencies. Reach out through secure channels.*
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=DC143C)](https://www.linkedin.com/in/yashwardhan-singh/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0D14?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=040711)](https://www.linkedin.com/in/yashwardhan-singh/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A0D14?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=040711)](https://github.com/Yashwardhan61)
+[![Gmail](https://img.shields.io/badge/GMAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=040711)](mailto:yashwardhan61@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/Yashwardhan61)
-
-[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=DC143C)](mailto:yashwardhan61@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="80%"/>
-
-## 07 // THE FINAL TRUTH
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=700&lines=Even+the+darkest+night+has+a+story+to+tell."/>
+<img src="assets/bat_divider.svg" width="100%"/>
 
 <br/>
 
-### "People live their lives bound by what they accept as correct and true. That's how they define reality."
+## 07 // THE FINAL VIGIL
 
-**— Itachi Uchiha | Naruto Shippuden**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=700&lines=Even+the+darkest+night+will+end+and+the+sun+will+rise.;It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me." alt="Final Quote"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:250000,100:8B0000&height=140&section=footer&text=END%20OF%20TRANSMISSION&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
+> *"They think I'm hiding in the shadows, but I am the shadows."*  
+> **— Batman | The Batman (2022)**
 
-**THE SHADOWS NEVER FORGET.**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:180308,100:8B0000&height=140&section=footer&text=BATCAVE%20FEED%20TERMINATED&fontSize=16&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
+
+**THE DARK KNIGHT NEVER SLEEPS.**
 
 </div>
