@@ -1,6 +1,9 @@
 <div align="center">
 
-<!-- HERO BANNER: GOTHAM CITY AT NIGHT & THE BAT-SIGNAL -->
+<!-- RED WAVING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0208,40:8B0000,75:B22222,100:DC143C&height=120&section=header" width="100%"/>
+
+<!-- HERO BANNER: GOTHAM CITY AT NIGHT & THE BAT-SIGNAL (CRIMSON RED EDITION) -->
 <img src="https://raw.githubusercontent.com/Yashwardhan61/Yashwardhan61/main/assets/batman_hero_banner.png" alt="Gotham City - Yashwardhan Singh - The Dark Knight" width="100%"/>
 
 <br/>
@@ -54,7 +57,7 @@ clearance_level: Wayne Enterprises Level 5 (Applied Sciences)
 active_directives:
   - Autonomous AI Agents & Multimodal Orchestration
   - Resilient Backend Infrastructure & Microservices
-  - Algorithmic Optimization & Competitive Problem Solving
+  - High-Throughput Distributed Architectures
 
 primary_patrols:
   flagship: DocuPilot (Autonomous University Circular Ingestion & Calendar Dispatcher)
@@ -115,7 +118,7 @@ creed: "They think I'm hiding in the shadows, but I am the shadows."
 <div align="center">
 <table width="100%">
 <tr>
-<td style="background-color: #070c18; border: 2px solid #dc143c; border-radius: 12px; padding: 20px;">
+<td>
 
 ### FLAGSHIP OPERATION // DOCUPILOT
 **AUTONOMOUS UNIVERSITY NOTICE-TO-ACTION AGENT**
@@ -215,13 +218,13 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 
 *The signal never rests. Activity recorded in the shadows.*
 
-<img width="49%" src="https://github-readme-stats-ten-wine.vercel.app/api?username=Yashwardhan61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=DC143C&icon_color=DC143C&text_color=E6E6E6&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwardhan61&theme=dark&hide_border=true&background=040711&stroke=8B0000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=E6E6E6&dates=888888" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-ten-wine.vercel.app/api?username=Yashwardhan61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=200307&title_color=FF2E4D&icon_color=FF2E4D&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwardhan61&theme=dark&hide_border=true&background=200307&stroke=8B0000&ring=FF2E4D&fire=FF2E4D&currStreakLabel=FF2E4D&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
 
 <br/>
 
 ### CHRONICLES OF NIGHT PATROL
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&bg_color=040711&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=BATCAVE%20SURVEILLANCE%20LOG" alt="Activity Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwardhan61&bg_color=200307&color=FF2E4D&line=DC143C&point=FFFFFF&area=true&hide_border=true&custom_title=BATCAVE%20SURVEILLANCE%20LOG" alt="Activity Graph"/>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
@@ -232,51 +235,21 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 
 <div align="center">
 
-## 05 // THE COMBAT SIMULATOR [PROBLEM SOLVING]
-
-*Sharp logic under pressure. Trained on algorithmic battlegrounds.*
-
-<img src="https://leetcard.jacoblin.cool/Yashwardhan61?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" alt="LeetCode Heatmap"/>
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Yashwardhan61/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-0A0D14?style=for-the-badge&logo=leetcode&logoColor=DC143C&labelColor=040711" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/yashwardhan61" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-0A0D14?style=for-the-badge&logo=codeforces&logoColor=DC143C&labelColor=040711" alt="Codeforces"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/yashwardhan61/" target="_blank">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-0A0D14?style=for-the-badge&logo=geeksforgeeks&logoColor=DC143C&labelColor=040711" alt="GeeksforGeeks"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="75%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 06 // SECURE COMMS [THE ALLIANCE]
+## 05 // SECURE COMMS [THE ALLIANCE]
 
 *Encrypted frequencies. Reach out through secure channels.*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashwardhan-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0D14?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=040711" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A0D14?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=200307" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/Yashwardhan61" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0A0D14?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=040711" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-0A0D14?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=200307" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="mailto:yashwardhan61@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=040711" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/GMAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=200307" alt="Gmail"/>
   </a>
 </p>
 
@@ -284,7 +257,7 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 
 <br/>
 
-## 07 // THE FINAL VIGIL
+## 06 // THE FINAL VIGIL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=700&lines=Even+the+darkest+night+will+end+and+the+sun+will+rise.;It's+not+who+I+am+underneath%2C+it's+what+I+do+that+defines+me." alt="Final Quote"/>
 
@@ -295,7 +268,7 @@ Healthcare assistance and medication tracking platform featuring capsule regimen
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:180308,100:8B0000&height=140&section=footer&text=BATCAVE%20FEED%20TERMINATED&fontSize=16&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,30:B22222,70:8B0000,100:200206&height=140&section=footer&text=BATCAVE%20FEED%20TERMINATED&fontSize=16&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 **THE DARK KNIGHT NEVER SLEEPS.**
 
