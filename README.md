@@ -53,7 +53,7 @@ identity:
   institute: MNNIT Allahabad
   degree: Master of Computer Applications (MCA 2025–2028)
 
-clearance_level: Wayne Enterprises Level 5 (Applied Sciences)
+clearance_level: ToXiN Enterprises Level 5 (Applied Sciences)
 active_directives:
   - Autonomous AI Agents & Multimodal Orchestration
   - Resilient Backend Infrastructure & Microservices
